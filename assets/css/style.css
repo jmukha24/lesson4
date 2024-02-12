@@ -4,20 +4,169 @@ a{
 ul{
 	list-style: none;
 } 
+img{
+	width: 100%;
+}
 
 
 
 #logo{
 	width: 122px;
 	height: 95px;
+	padding-bottom: 706.5px;
 }
 
 .navbar-ul{
 	list-style: none;
 	text-decoration: Archy EDT, Thin;
+	text-decoration-color: rgba(112, 112, 112, 1);
 }
 
 #photo{
 	width: 1640px;
-height: 613px;
+	height: 613px;
+
+	margin-top: 107px;
+	margin-bottom: 138px;
+	margin-left: 140px;
+	margin-right: 140px;
 }
+
+.text1{
+	padding-bottom: 53px;
+}
+.text2{
+	padding-bottom: 70px;
+}
+.text3{
+	padding-bottom: 106px;
+}
+.text4{
+	padding-bottom: 245.5px;	
+}
+
+header a{
+	color: rgba(112, 112, 112, 1);
+}
+
+.div1{
+h1{
+	color: rgba(112, 112, 112, 1);
+	padding-bottom: 70px;
+	padding-left: 152px;
+}
+
+.photo4{
+	width: 483px;
+	height: 282px;
+	padding-left: 140px;
+}
+
+h2{
+	color: rgba(112, 112, 112, 1);
+	padding-top: 20px;
+	padding-bottom: 33px;
+	padding-left: 152px;
+	top: 1383px;
+	left: 152px;
+	width: 282px;
+	height: 40px;
+}
+
+h5{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 152px;
+	padding-bottom: 73px;
+	top: 1456px;
+	left: 152px;
+	width: 446px;
+	height: 48px;
+}
+
+h3{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 554px;
+	padding-bottom:108.5px;
+}
+}
+
+
+.div2{  
+
+
+.photo3{
+	width: 483px;
+	height: 282px;
+	padding-left: 718px;
+
+}
+
+h2{
+	color: rgba(112, 112, 112, 1);
+	padding-top: 20px;
+	padding-bottom: 33px;
+	padding-left: 730.5px;
+	top: 1383px;
+	left: 152px;
+	width: 282px;
+	height: 40px;
+}
+
+h5{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 740.5px;
+	padding-bottom: 73px;
+	top: 1456px;
+	left: 152px;
+	width: 446px;
+	height: 48px;
+}
+
+h3{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 1132.5px;
+	padding-bottom: 108.5px;
+}
+}
+
+
+.div3{	
+
+.photo2{
+	width: 483px;
+	height: 282px;
+	padding-left: 1297px;
+}
+
+h2{
+	color: rgba(112, 112, 112, 1);
+	padding-top: 20px;
+	padding-bottom: 33px;
+	padding-left: 1309px;
+	top: 1383px;
+	left: 152px;
+	width: 282px;
+	height: 40px;
+}
+
+h5{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 1309px;
+	padding-bottom: 73px;
+	top: 1456px;
+	left: 152px;
+	width: 446px;
+	height: 48px;
+}
+
+h3{
+	color: rgba(112, 112, 112, 1);
+	padding-left: 1711px;
+	padding-bottom: 91px;
+}
+}
+
+
+
+
+
